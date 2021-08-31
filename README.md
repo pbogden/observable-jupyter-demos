@@ -1,10 +1,9 @@
 
 # observable-jupyter demos
 
-A collection of demos using the truly remarkable observable-jupyter Python module, 
+A collection of demos using the 
+[observable-jupyter](https://pypi.org/project/observable-jupyter/) Python module,
 which bridges the gap between [Observable notebooks](http://observablehq.com) and Python!
-
-* [observable-jupyter](https://pypi.org/project/observable-jupyter/) -- pypi.org
 
 ## Observable Plot
 
