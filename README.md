@@ -8,5 +8,5 @@ which bridges the gap between [Observable notebooks](http://observablehq.com) an
 
 Quick and easy charts; 
 [Plot](https://observablehq.com/@observablehq/plot) is built with D3 and powered by Observable.
-For a Python demo, [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pbogden/observable-jupyter-demos/blob/master/notebooks/observable_plot.ipynb)
+For a Python demo: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pbogden/observable-jupyter-demos/blob/master/notebooks/observable_plot.ipynb)
 
