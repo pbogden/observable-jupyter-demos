@@ -1,6 +1,7 @@
 
 A collection of demos using the very cool [observable-jupyter](https://github.com/thomasballinger/observable-jupyter),
-which bridges the gap between [Observable notebooks](http://observablehq.com) and Python!
+which creates a new approach to data visualiz with Python. 
+It uses [Observable notebooks](http://observablehq.com) to bridge the gap between JavaScript and Python!
 
 ## Observable Plot
 
