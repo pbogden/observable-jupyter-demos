@@ -3,8 +3,6 @@ A collection of demos using the very cool [observable-jupyter](https://github.co
 Python package, which enables a new approach to data visualization with Python. 
 It uses [Observable notebooks](http://observablehq.com) to bridge the gap between 
 JavaScript and Python!
-If you don't know JavaScript, you can use it to create a wide range of charts that use D3 other JavaScript libraries.
-If you do know JavaScript, then the there's nothing that you can't do (almost).
 
 ## Observable Plot
 
