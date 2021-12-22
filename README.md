@@ -25,10 +25,7 @@ The [Observable Plot](https://github.com/observablehq/plot#readme) API documenta
 if it were a Python package.
 
 Do I need to be front-end developer to figure out how to customize things for the Python side, you ask?
-No, that's just the point -- it's super easy thanks to observable-jupyter and the Observablehq.com API,
-you need only a simple Observable notebook that exposes the JSON-encodable data and options needed by Plot. 
-And that's the point of this demo: my [Observable notebook](https://observablehq.com/@pbogden/observable-plot-jupyter) 
-exposes the various options needed to reproduce the plot types in the original Observable Plot notebook. 
-No package.json necessary;-)
-Thanks to observable-jupyter and the Observablehq.com API, I can use a different dataset that originated on the Python side and gets
-sent to the JavaScript side via the API at Observablehq.com.
+No, that's just the point -- it's super easy thanks to observable-jupyter and the Observable API.
+You need an Observable notebook that exposes the JSON-encodable data and options needed by Plot. 
+That's the point of this demo: my [Observable notebook](https://observablehq.com/@pbogden/observable-plot-jupyter).
+But you don't need to be a front-end dev -- there's no package.json anywhere in the mix;-)
