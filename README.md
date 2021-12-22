@@ -7,13 +7,14 @@ which bridges the gap between [Observable notebooks](http://observablehq.com) (1
 
 ## Observable Plot
 
-Quick and easy charts: [Plot](https://observablehq.com/@observablehq/plot) is built with D3 and powered by 
+Quick and easy charts: [Plot](https://observablehq.com/@observablehq/plot) is built with 
+[D3](https://github.com/d3/d3#d3-data-driven-documents) and powered by 
 [Observable](http://observablehq.com).
 Try it in Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pbogden/observable-jupyter-demos/blob/master/notebooks/observable_plot.ipynb)
 
 Another new Python plotting package, you ask? No. On the one hand, it's true the Plot is a new, amazing open source 
 plotting package by the amazing [Mike Bostock](https://observablehq.com/@mbostock), 
-creator of D3.js, among other things.
+creator of D3, among other things.
 But it's not a Python plotting package, it's 100% JavaScript.
 You can use with Python in Jupyter notebooks (and Colab) because of the remarkable 
 [observable-jupyter](https://github.com/thomasballinger/observable-jupyter) Python package.
