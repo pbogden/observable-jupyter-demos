@@ -22,12 +22,12 @@ You can use it with Python in Jupyter notebooks (and Colab) thanks to the remark
 [observable-jupyter](https://github.com/thomasballinger/observable-jupyter) Python package by
 Thomas Ballinger.
 
-**So is it Python or JavaScript?** Both. Plot is pure JavaScript, but you don't need to know
+**So is it Python or JavaScript?** Both. Observable Plot is pure JavaScript, but you don't need to know
 JavaScript to use it. You can use Plot as if it were pure Python. 
 In a nutshell: As long as you can serialize your data and Plot options as JSON (that's not very restrictive),
 you can use Observable Plot as easily as if it were a Python package.
-The [Observable Plot](https://github.com/observablehq/plot#readme) API documentation is just as useful as
-if it were a Python package.
+And the beautiful [Observable Plot API documentation](https://github.com/observablehq/plot#readme) is just 
+as useful for Python programmers as if it were a Python package.
 
 **Do I need to be front-end developer to customize things from the Python side?**
 No, that's just the point of the demo -- it's super easy to use Plot in Jupyter notebooks (or Colab).
