@@ -7,10 +7,12 @@ which bridges the gap between [Observable notebooks](http://observablehq.com) (1
 
 ## Observable Plot
 
-Quick and easy charts: [Plot](https://observablehq.com/@observablehq/plot) is built with 
-[D3](https://github.com/d3/d3#d3-data-driven-documents) and powered by 
+This is the first demo.  Quick and easy charts using: [Observable Plot](https://observablehq.com/@observablehq/plot), 
+which is built with [D3](https://github.com/d3/d3#d3-data-driven-documents) and powered by 
 [Observable](http://observablehq.com).
 Try it in Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pbogden/observable-jupyter-demos/blob/master/notebooks/observable_plot.ipynb)
+
+## Not-so-FAQ
 
 Another new Python plotting package, you ask? No. It's true that Plot is a new open source 
 plotting package by the amazing [Mike Bostock](https://observablehq.com/@mbostock)
