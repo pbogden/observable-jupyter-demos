@@ -1,6 +1,4 @@
 
-# observable-jupyter demos
-
 A collection of Python demos using the very cool 
 [observable-jupyter](https://github.com/thomasballinger/observable-jupyter),
 which bridges the gap between [Observable notebooks](http://observablehq.com) (100% JavaScript) and Python!
