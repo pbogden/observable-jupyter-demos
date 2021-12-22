@@ -35,4 +35,5 @@ Jupyter notebooks (or Colab) without touching any JavaScript.
 Granted, someone needs to set up an Observable notebook that exposes the JSON-encodable data and options 
 needed by Plot. But that's not a big deal.
 That's what I did for this demo: my [Observable notebook](https://observablehq.com/@pbogden/observable-plot-jupyter).
+Once that's done, you're all set.
 You don't need to be a front-end dev -- there's no package.json anywhere in the mix;-)
