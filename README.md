@@ -24,7 +24,7 @@ you can use Observable Plot as easily as if it were a Python package.
 The [Observable Plot](https://github.com/observablehq/plot#readme) API documentation is just as useful as
 if it were a Python package.
 
-Do I need to be front-end developer to figure out how to customize things for the Python side?
+Do I need to be front-end developer to figure out how to customize things for the Python side, you ask?
 No, that's just the point -- it's super easy thanks to observable-jupyter and the Observablehq.com API,
 you need only a simple Observable notebook that exposes the JSON-encodable data and options needed by Plot. 
 And that's the point of this demo: my [Observable notebook](https://observablehq.com/@pbogden/observable-plot-jupyter) 
