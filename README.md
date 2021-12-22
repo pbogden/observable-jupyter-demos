@@ -30,7 +30,9 @@ And the beautiful [Observable Plot API documentation](https://github.com/observa
 as useful for Python programmers as if it were a Python package.
 
 **Do I need to be front-end developer to customize things from the Python side?**
-No, that's just the point of the demo -- it's super easy to use Plot in Jupyter notebooks (or Colab).
-Someone needs to set up an Observable notebook that exposes the JSON-encodable data and options needed by Plot.
+No, that's just the point of the demo -- it's super easy to customize Observable Plot charts in 
+Jupyter notebooks (or Colab) without touching any JavaScript.
+Granted, someone needs to set up an Observable notebook that exposes the JSON-encodable data and options 
+needed by Plot. But that's not a big deal.
 That's what I did for this demo: my [Observable notebook](https://observablehq.com/@pbogden/observable-plot-jupyter).
-But you don't need to be a front-end dev -- there's no package.json anywhere in the mix;-)
+You don't need to be a front-end dev -- there's no package.json anywhere in the mix;-)
