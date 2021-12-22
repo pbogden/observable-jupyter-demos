@@ -15,7 +15,7 @@ Try it in Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.
 ## Not-so-FAQ
 
 Another new Python plotting package, you ask? No. It's true that Plot is a new open source 
-plotting package by the amazing [Mike Bostock](https://observablehq.com/@mbostock)
+plotting package by the amazing [Mike Bostock](https://observablehq.com/@mbostock),
 creator of D3.
 But it's not Python, it's 100% JavaScript.
 You can use it with Python in Jupyter notebooks (and Colab) thanks to the remarkable 
