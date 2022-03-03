@@ -24,7 +24,7 @@ But you can take the same approach to use all sorts of JavaScript data-viz libra
 No. Integrating JavaScript into Python used to be hard, but not anymore -- 
 you no longer need to be a front-end web dev to do it.
 The purpose of the demo is to show how it's done. 
-Once things are set up, it's easy to create custom data visualizations in Jupyter notebooks (or Colab) 
+Once things are set up, it's easy to create custom data visualizations with Python in Jupyter notebooks (or Colab) 
 without touching the JavaScript.
 
 **It can't be that easy. What's the catch?**
