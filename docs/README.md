@@ -8,7 +8,7 @@ that bridges the gap between JavaScript and Python!
 This Python notebook, [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pbogden/observable-jupyter-demos/blob/master/notebooks/observable_plot.ipynb),
 demonstrates exploratory data analysis with
 [Observable Plot](https://observablehq.com/@observablehq/plot), 
-which is a JavaScript library built with [D3](https://github.com/d3/d3#d3-data-driven-documents).
+a JavaScript library built with [D3](https://github.com/d3/d3#d3-data-driven-documents).
 
 ## Not-so-FAQ
 
