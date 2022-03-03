@@ -28,13 +28,13 @@ without touching the JavaScript.
 
 **It can't be that easy. What's the catch?**
 Someone needs to set up the Observable notebook to expose the parameters and data variables
-needed by the JavaScript library. You need to know JavaScript to set it up, but you don't need to be a web developer.
+needed by the JavaScript library. You need to know JavaScript to set it up, but it's not hard.
 That's the purpose of this [Observable notebook](https://observablehq.com/@pbogden/observable-plot-jupyter).
 It's a very slightly modified fork of [Mike Bostock's original](https://observablehq.com/@observablehq/plot).
 Parameters and data are specified in Python and then sent as JSON to the JavaScript by a simple
-Python function call.
+Python function call using the observable-jupyter API.
 
 **What's next?**
-The goal is to create an extensible collection of Observable notebooks that enable cutting-edge data viz in Python
-for a wide variety of JavaScript libraries, along with documentation that makes it easy for data 
+The goal is to create a collection of Observable notebooks that enable cutting-edge data viz in Python
+using a variety of JavaScript libraries, along with documentation that makes it easy to use by for data 
 scientists who know only Python.
