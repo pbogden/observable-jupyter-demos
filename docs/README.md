@@ -10,23 +10,25 @@ demonstrates exploratory data analysis with
 [Observable Plot](https://observablehq.com/@observablehq/plot), 
 a JavaScript library built with [D3](https://github.com/d3/d3#d3-data-driven-documents).
 
-## Not-so-FAQ
+### Yet another new Python plotting package?
 
-**Yet another new Python plotting package?** No. What's new is that observable-jupyter integrates
+No. What's new is that observable-jupyter integrates
 JavaScript data-viz capabilities directly into Python with a super simple API.
 The demo above shows how it's done with Observable Plot,
 a charting library by [Mike Bostock](https://observablehq.com/@mbostock), creator of D3 and co-founder
 of [Observable, Inc](http://observablehq.com).
 But you use the same approach to use all sorts of JavaScript data-viz libraries directly from Python.
 
-**Do I need to be front-end developer to customize things on the Python side?**
+### Do I need to be front-end developer to customize things on the Python side?
+
 No. Integrating JavaScript into Python used to be hard, but not anymore -- 
 you no longer need to be a front-end web dev to do it.
 The purpose of the demo is to show how it's done. 
 Once things are set up, it's easy to create custom data visualizations in Jupyter notebooks (or Colab) 
 without touching the JavaScript.
 
-**It can't be that easy. What's the catch?**
+### It can't be that easy. What's the catch?
+
 Someone needs to set up the Observable notebook to expose the parameters and data variables
 needed by the JavaScript library. You need to know JavaScript to set it up, but it's not hard.
 That's the purpose of this [Observable notebook](https://observablehq.com/@pbogden/observable-plot-jupyter).
