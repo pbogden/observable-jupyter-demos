@@ -35,7 +35,7 @@ That's the purpose of this [Observable notebook](https://observablehq.com/@pbogd
 It's a very slightly modified fork of [Mike Bostock's original](https://observablehq.com/@observablehq/plot).
 Parameters and data are specified in Python and then sent as JSON to the JavaScript by a simple
 Python function call using the observable-jupyter API. 
-But this only needs to be done once, then anyone can use it.
+This only needs to be done once, then anyone can use it.
 
 **What's next?**
 
