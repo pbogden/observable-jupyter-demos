@@ -1,6 +1,6 @@
-FILE=observable_plot
+FILE=Copy\ of\ observable_plot
 
-DRIVE=~/Google\ Drive/colab\ notebooks/observable/
+DRIVE=~/Google\ Drive/colab\ notebooks
 
 save:
 	cp $(DRIVE)/$(FILE).ipynb notebooks

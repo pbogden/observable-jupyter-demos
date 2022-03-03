@@ -5,10 +5,10 @@ that bridges the gap between JavaScript and Python!
 
 ## Example: Observable Plot
 
-This demo shows how to create quick and easy charts in Python with 
+[This notebook](https://github.com/pbogden/observable-jupyter-demos/blob/main/notebooks/observable_plot.ipynb) 
+shows how to create quick and easy charts in Python with 
 [Observable Plot](https://observablehq.com/@observablehq/plot), 
-which is a JavaScript library built with [D3](https://github.com/d3/d3#d3-data-driven-documents) and powered by 
-[Observable notebooks](http://observablehq.com).
+which is a JavaScript library built with [D3](https://github.com/d3/d3#d3-data-driven-documents).
 Try it in Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pbogden/observable-jupyter-demos/blob/master/notebooks/observable_plot.ipynb)
 
 ## Not-so-FAQ
