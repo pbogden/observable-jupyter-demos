@@ -29,7 +29,7 @@ without touching the JavaScript.
 
 **It can't be that easy. What's the catch?**
 
-Someone needs to set up the Observable notebook to expose the parameters and data variables
+Someone needs to set up an [Observable notebook](https://www.google.com/search?q=observable+notebook&oq=observable+notebook&aqs=chrome..69i57j69i64j69i60l3j69i65.3681j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_XSUhYtfsCpiDytMPvsmf4Aw36) to expose the parameters and data variables
 needed by the JavaScript library. You need to know JavaScript to set it up, but it's not hard.
 That's the purpose of this [Observable notebook](https://observablehq.com/@pbogden/observable-plot-jupyter).
 It's a very slightly modified fork of [Mike Bostock's original](https://observablehq.com/@observablehq/plot).
