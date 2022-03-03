@@ -10,9 +10,8 @@ demonstrates exploratory data analysis with
 [Observable Plot](https://observablehq.com/@observablehq/plot), 
 a JavaScript library built with [D3](https://github.com/d3/d3#d3-data-driven-documents).
 
-### Yet another new Python plotting package?
-
-No. What's new is that observable-jupyter integrates
+* **Yet another new Python plotting package?**
+  * No. What's new is that observable-jupyter integrates
 JavaScript data-viz capabilities directly into Python with a super simple API.
 The demo above shows how it's done with Observable Plot,
 a charting library by [Mike Bostock](https://observablehq.com/@mbostock), creator of D3 and co-founder
