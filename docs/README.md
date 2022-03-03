@@ -27,7 +27,7 @@ Once things are set up, it's easy to create custom data visualizations in Jupyte
 without touching the JavaScript.
 
 **It can't be that easy. What's the catch?**
-Someone needs to set up the Observable notebook to expose the critical parameters and data variables
+Someone needs to set up the Observable notebook to expose the parameters and data variables
 needed by the JavaScript library. You need to know JavaScript to set it up, but you don't need to be a web developer.
 That's the purpose of this [Observable notebook](https://observablehq.com/@pbogden/observable-plot-jupyter).
 It's a very slightly modified fork of [Mike Bostock's original](https://observablehq.com/@observablehq/plot).
