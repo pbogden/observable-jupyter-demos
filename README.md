@@ -17,7 +17,7 @@ JavaScript data-viz capabilities directly into Python with a super simple API.
 The demo above shows how it's done with Observable Plot,
 a charting library by [Mike Bostock](https://observablehq.com/@mbostock), creator of D3 and co-founder
 of [Observable, Inc](http://observablehq.com).
-You can take the same approach to use all sorts of JavaScript data-viz libraries directly from Python.
+But you can take the same approach to use all sorts of JavaScript data-viz libraries directly from Python.
 
 **Do I need to be front-end developer to customize things on the Python side?**
 
@@ -35,7 +35,7 @@ That's the purpose of this [Observable notebook](https://observablehq.com/@pbogd
 It's a very slightly modified fork of [Mike Bostock's original](https://observablehq.com/@observablehq/plot).
 Parameters and data are specified in Python and then sent as JSON to the JavaScript by a simple
 Python function call using the observable-jupyter API. 
-Setup only needs to be done once, then anyone can use it.
+But this only needs to be done once, then anyone can use it.
 
 **What's next?**
 
