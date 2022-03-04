@@ -51,5 +51,6 @@ These demos will showcase a variety of cutting-edge JavaScript libraries ranging
 to 3-D scatterplots.
 We'll how to create the kinds of interactive visualizations that aren't currently possible in Python,
 such as this [Mona Lisa Histogram](https://observablehq.com/@d3/mona-lisa-histogram).
-We'll also create documentation that shows how to set up 
+And for those data scientists who know a little JavaScript,
+we'll also create documentation that shows how to set up 
 Observable notebooks so that they're easily usable with observable-jupyter.
