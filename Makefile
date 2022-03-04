@@ -1,4 +1,4 @@
-FILE=Copy\ of\ observable_plot
+FILE=observable_plot
 
 DRIVE=~/Google\ Drive/colab\ notebooks
 
