@@ -1,7 +1,7 @@
 
 The goal is a collection of demos and documentation for
 [observable-jupyter](https://github.com/thomasballinger/observable-jupyter), a new Python library
-for creating interactive browser-based data visualizations...with JavaScript.
+that allows Python users to create interactive browser-based data visualizations...with JavaScript.
 
 ## Demo: Observable Plot
 
