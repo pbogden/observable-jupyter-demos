@@ -33,7 +33,7 @@ without touching the JavaScript.
 
 **It can't be that easy. What's the catch?**
 
-Someone needs to set up an 
+Someone needs to set up a library-specific
 [Observable notebook](https://www.google.com/search?q=observable+notebook&oq=observable+notebook&aqs=chrome..69i57j69i64j69i60l3j69i65.3681j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_XSUhYtfsCpiDytMPvsmf4Aw36) 
 for use by observable-jupyter.
 That notebook must expose the parameters and data variables needed on the JavaScript side.
