@@ -65,3 +65,10 @@ Observable notebooks so that they're easily usable with observable-jupyter.
     * e.g., https://curtsies.readthedocs.io/en/latest/. 
   * exported Jupyter notebooks or colab notebooks might be a good fit for documenting the project
 * [observable-jupyter-widget](https://github.com/thomasballinger/observable-jupyter-widget)
+* [advanced embedding and downloading](https://observablehq.com/@observablehq/downloading-and-embedding-notebooks)
+* [github primer](https://primer.style/)
+  * [prototyping](https://primer.style/css/tools/prototyping)
+  * [header](https://primer.style/css/components/header)
+  * [navigation](https://primer.style/css/components/navigation)
+  * [dropdown](https://primer.style/css/components/dropdown)
+  * [summary element](https://primer.style/css/utilities/details#using-button-styles-with-the-details-summary-element)
