@@ -54,3 +54,13 @@ such as this [Mona Lisa Histogram](https://observablehq.com/@d3/mona-lisa-histog
 And for those data scientists who know a little JavaScript,
 we'll also create documentation that shows how to set up 
 Observable notebooks so that they're easily usable with observable-jupyter.
+
+## Related
+
+* [robservable gallery](https://juba.github.io/robservable/articles/gallery.html)
+* [discussions](https://github.com/thomasballinger/observable-jupyter/discussions/1)
+* [examples](https://github.com/thomasballinger/observable-jupyter/discussions/2)
+* Ideas being tossed around: 
+  * Sphinx or other standard Python documentation format and likely hosted on https://readthedocs.org/
+    * e.g., https://curtsies.readthedocs.io/en/latest/. 
+  * exported Jupyter notebooks or colab notebooks might be a good fit for documenting the project
