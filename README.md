@@ -64,3 +64,4 @@ Observable notebooks so that they're easily usable with observable-jupyter.
   * Sphinx or other standard Python documentation format and likely hosted on https://readthedocs.org/
     * e.g., https://curtsies.readthedocs.io/en/latest/. 
   * exported Jupyter notebooks or colab notebooks might be a good fit for documenting the project
+* [observable-jupyter-widget](https://github.com/thomasballinger/observable-jupyter-widget)
